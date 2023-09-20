@@ -1,0 +1,4 @@
+To Access SQL Database: mysql -u janish -p
+
+Database: employee_db
+Table: employees
